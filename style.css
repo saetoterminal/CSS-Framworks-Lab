@@ -1,0 +1,25 @@
+body{
+    background-image: image(222222.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+}
+
+header {
+    background-color: #b10d0d
+    padding 100px;
+    display: flex
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px; 
+  }
+
+  
+
+  
