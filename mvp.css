@@ -582,6 +582,20 @@ blockquote footer {
    cursor:pointer;
    text-align: center;
   }
+  #button2 {
+    border: 2px outset rgb(255, 255, 255);
+   background-color: rgb(0, 0, 0);
+   height:50px;
+   cursor:pointer;
+   text-align: center;
+  }
+  #button3 {
+    border: 2px outset rgb(255, 255, 255);
+   background-color: rgb(0, 0, 0);
+   height:50px;
+   cursor:pointer;
+   text-align: center;
+  }
 
   p{
     padding-left: 100px;
